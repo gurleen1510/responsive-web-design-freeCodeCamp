@@ -1,4 +1,4 @@
-![Tribute Page Preview](images/TributePage.jpg)
+![Tribute Page Preview](images/TributePage.png)
 
 # Tribute Page
 
