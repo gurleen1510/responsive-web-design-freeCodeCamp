@@ -1,4 +1,4 @@
-![Tribute Page Preview](images/Survey2.png)
+![Tribute Page Preview](images/Survey1.png)
 
 # Tribute Page
 
