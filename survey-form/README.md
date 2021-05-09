@@ -1,6 +1,6 @@
-![Tribute Page Preview](images/Survey1.png)
+![Survey Form Preview](images/Survey1.png)
 
-# Tribute Page
+# Survey Form
 
-Responsive Web Design- Project: Build a tribute page.<br/>
+Responsive Web Design- Project: Build a Survey Form.<br/>
 You can see the webpage at [CodePen](https://codepen.io/samxcodes/full/bGqdbgO).
