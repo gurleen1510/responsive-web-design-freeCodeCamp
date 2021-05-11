@@ -268,7 +268,14 @@ nav li {
   height: 80%;
 }
 
-/*---------------Card-section---------------*/
+@media (max-width: 650px){
+  h2, #insights{
+ position: relative; 
+ top: 50px;
+  }
+}
+
+/* Course Details */
 
 #course-details{
   padding: 40px;
@@ -324,8 +331,8 @@ nav li {
 @media (max-width: 800px) {
   #course-details {
       flex-direction: column;
-      background: green;
-      color: white;
+      background: white;
+      color: black;
   }
   .product {
       max-width: 300px;
@@ -395,6 +402,11 @@ label {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
+}
+
+.center{
+  position: relative;
+  left: 130px;
 }
 
 /* Footer */
