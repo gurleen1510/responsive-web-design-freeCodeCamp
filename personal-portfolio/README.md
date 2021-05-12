@@ -4,5 +4,4 @@
 
 Responsive Web Design- Project: Build a Personal Portfolio Page<br/>
 You can see the webpage at [CodePen](https://codepen.io/samxcodes/full/jOBWZbz)<br>
-*The information provided in the list is not real.
 
